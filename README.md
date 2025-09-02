@@ -17,3 +17,4 @@
 * [Microsoft 365 (Office)](https://www.office.com/)
 * [TreeSize Free](https://www.jam-software.com/treesize_free)
 * [MikTeX](https://miktex.org/download)
+* [VLC Media Player](https://www.videolan.org/)
