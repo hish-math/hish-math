@@ -28,7 +28,7 @@
 | Tool | Description |
 |---|---|
 | [Visual Studio Code](https://code.visualstudio.com/) | Lightweight, extensible code editor by Microsoft |
-| [Google Antigravity]([https://idx.google.com/](https://antigravity.google/download)) | Basically VS Code but by Google |
+| [Google Antigravity](https://antigravity.google/download) | Basically VS Code but by Google |
 | [Node.js](https://nodejs.org/en/download) | JavaScript runtime for running code outside the browser |
 | [Git](https://git-scm.com/downloads/win) | Version control system |
 | [posh-git](https://github.com/dahlbyk/posh-git) | Git status and tab completion for PowerShell |
@@ -59,3 +59,10 @@
 | [Serato DJ Lite](https://serato.com/dj/lite/downloads) | Beginner-friendly DJ software with hardware integration |
 | [Mixxx](https://mixxx.org/download/) | Free, open-source DJ software |
 | [Audacity](https://www.audacityteam.org/) | Free audio editor and recorder |
+
+### Gaming
+
+| Tool | Description |
+|---|---|
+| [Steam](https://store.steampowered.com/about/) | Digital distribution platform for buying, playing, and discussing games |
+| [Discord](https://discord.com/) | Communication app for voice, video, and text chat with communities |
