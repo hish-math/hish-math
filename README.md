@@ -52,7 +52,7 @@
 |---|---|
 | [Obsidian](https://obsidian.md/) | Local-first, Markdown-based knowledge management app |
 
-### DJing
+### Music
 
 | Tool | Description |
 |---|---|
@@ -61,6 +61,7 @@
 | [Audacity](https://www.audacityteam.org/) | Free audio editor and recorder |
 | [MP3tag](https://www.mp3tag.de/en/download.html) | The universal tag editor |
 | [Lexicon DJ](https://www.lexicondj.com/download) | Library management for professional DJs |
+| [Ableton Live](https://www.ableton.com/en/trial/) | Music creation and performance |
 
 ### Gaming
 
